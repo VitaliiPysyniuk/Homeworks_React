@@ -13,7 +13,7 @@ class PostsComponent extends Component {
     checkPost = (id) => {
         let {posts, checkedPosts} = this.state;
         let postIndex = posts.findIndex(value => value.id === id);
-        checkedPosts.push(posts.splice(postIndex, 1));
+        checkedPosts.push(posts.splice(postIndex, 1)[0]);
 
         checkedPosts.sort((a, b) => a.id - b.id);
 
@@ -23,7 +23,7 @@ class PostsComponent extends Component {
     returnPost = (id) => {
         let {posts, checkedPosts} = this.state;
         let postIndex = checkedPosts.findIndex(value => value.id === id);
-        posts.push(checkedPosts.splice(postIndex, 1));
+        posts.push(checkedPosts.splice(postIndex, 1)[0]);
 
         posts.sort((a, b) => a.id - b.id);
         checkedPosts.splice(postIndex, 1);
