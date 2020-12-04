@@ -1,0 +1,22 @@
+.main {
+    width: 840px;
+    padding: 20px;
+    margin: 0 auto;
+    border: 3px solid green;
+}
+
+.main-child {
+    width: 800px;
+    padding: 10px;
+    margin: 10px auto;
+    border: 2px solid black;
+}
+
+button {
+    width: 100px;
+    margin: 0 10px;
+}
+
+h2 {
+    text-align: center;
+}
