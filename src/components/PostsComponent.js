@@ -13,10 +13,9 @@ class PostsComponent extends Component {
     checkPost = (id) => {
         let {posts, checkedPosts} = this.state;
         let postIndex = posts.findIndex(value => value.id === id);
-        checkedPosts.push(posts.find(value=> value.id === id));
+        checkedPosts.push(posts.splice(postIndex, 1));
 
         checkedPosts.sort((a, b) => a.id - b.id);
-        posts.splice(postIndex, 1);
 
         this.setState({posts: posts, checkedPosts: checkedPosts});
     }
@@ -24,7 +23,7 @@ class PostsComponent extends Component {
     returnPost = (id) => {
         let {posts, checkedPosts} = this.state;
         let postIndex = checkedPosts.findIndex(value => value.id === id);
-        posts.push(checkedPosts.find(value=> value.id === id));
+        posts.push(checkedPosts.splice(postIndex, 1));
 
         posts.sort((a, b) => a.id - b.id);
         checkedPosts.splice(postIndex, 1);
