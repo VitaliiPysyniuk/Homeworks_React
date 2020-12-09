@@ -2,12 +2,15 @@ import React, {Component} from 'react';
 import PostComponent from "./PostComponent";
 import '../styles/style.css'
 import CheckedPostComponent from "./CheckedPostComponent";
+import {PostSevice} from "../services/PostService";
 
 class PostsComponent extends Component {
 
+    postService = new PostSevice();
+
     constructor() {
         super();
-        this.state = {posts: [], checkedPosts: []};
+        this.state = {posts: [], checkedPosts: []}
     }
 
     checkPost = (id) => {
@@ -64,9 +67,7 @@ class PostsComponent extends Component {
     }
 
     componentDidMount() {
-        fetch('http://jsonplaceholder.typicode.com/posts')
-            .then(value => value.json())
-            .then(posts => this.setState({posts: posts.slice(0, 15)}));
+       this.setState({posts: this.postService.getAllUsers()});
     }
 }
 
