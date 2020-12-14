@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+}
+
+h2 {
+    text-align: center;
+}
+
+a {
+    margin: 0 auto;
+    font-size: 18px;
+}
+
+.links, .all-comments, .all-posts {
+    width: 250px;
+    min-height: 50px;
+    margin: 10px auto;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 3px solid seagreen;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.all-posts {
+    width: 450px;
+    border: 3px solid darkred;
+}
+
+.all-comments {
+    width: 450px;
+    border: 3px solid darkslategrey;
+}
+
