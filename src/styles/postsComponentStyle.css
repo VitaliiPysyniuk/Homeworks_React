@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+}
+
+.posts-div {
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.post-div {
+    padding: 5px;
+    margin: 10px 5px;
+    width: calc((100% - 30px)/3);
+    height: 200px;
+    box-sizing: border-box;
+    overflow: scroll;
+    box-sizing: border-box;
+    border: 1px solid black;
+}

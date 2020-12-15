@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+}
+
+.users-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.all-users {
+    width: 55%;
+    background-color: lightgreen;
+    margin-top: 25px;
+    padding: 5px;
+    border: 2px solid black;
+    min-height: 50px;
+    box-sizing: border-box;
+}
+
+.user-details, .user-posts {
+    width: 35%;
+    height: fit-content;
+    background-color: lightgreen;
+    margin-top: 25px;
+    padding: 5px;
+    border: 2px solid black;
+    min-height: 50px;
+    font-size: 18px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.user-posts {
+    width: calc(93.3333%);
+    margin: 25px auto;
+    padding: 0;
+}
