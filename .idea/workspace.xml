@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64606197-44aa-47dc-ac49-07784069f04d" name="Default Changelist" comment="homework #2_2">
+      <change afterPath="$PROJECT_DIR$/src/styles/postsComponentStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="homework_#2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="c4a78970-c768-4745-8ecf-f2aa61e3d69b" />
+  <component name="ProjectId" id="1lAQY8Qb8qX3QUelbuzrt4xC7cR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../reacte-practicals" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64606197-44aa-47dc-ac49-07784069f04d" name="Default Changelist" comment="" />
+      <created>1607037469926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607037469926</updated>
+      <workItem from="1607037479653" duration="658000" />
+      <workItem from="1607096057699" duration="8541000" />
+      <workItem from="1607363109690" duration="1268000" />
+      <workItem from="1607471431672" duration="1687000" />
+      <workItem from="1607473193505" duration="4069000" />
+      <workItem from="1607515497986" duration="27854000" />
+      <workItem from="1607969173764" duration="16193000" />
+    </task>
+    <task id="LOCAL-00001" summary="new_branch_1">
+      <created>1607038012635</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607038012635</updated>
+    </task>
+    <task id="LOCAL-00002" summary="homework #1">
+      <created>1607103802736</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607103802736</updated>
+    </task>
+    <task id="LOCAL-00003" summary="homework #1_1">
+      <created>1607105337492</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607105337492</updated>
+    </task>
+    <task id="LOCAL-00004" summary="homework #1_1">
+      <created>1607105437490</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607105437490</updated>
+    </task>
+    <task id="LOCAL-00005" summary="homework #1_3">
+      <created>1607472111492</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607472111492</updated>
+    </task>
+    <task id="LOCAL-00006" summary="homework #2_2">
+      <created>1607969230891</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607969230891</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new_branch_1" />
+    <MESSAGE value="homework #1" />
+    <MESSAGE value="homework #1_1" />
+    <MESSAGE value="homework #1_3" />
+    <MESSAGE value="homework #2_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework #2_2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="187" key="FileChooserDialogImpl" timestamp="1607534336137">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state x="517" y="187" key="FileChooserDialogImpl/0.0.1472.864@0.0.1472.864" timestamp="1607534336137" />
+    <state x="596" y="330" width="451" height="203" key="Github.ShareDialog" timestamp="1607037611564">
+      <screen x="0" y="0" width="1471" height="864" />
+    </state>
+    <state x="596" y="330" width="451" height="203" key="Github.ShareDialog/0.0.1471.864@0.0.1471.864" timestamp="1607037611564" />
+    <state x="245" y="77" key="SettingsEditor" timestamp="1607970605635">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state x="245" y="77" key="SettingsEditor/0.0.1472.864@0.0.1472.864" timestamp="1607970605635" />
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607969241768">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1471.864@0.0.1471.864" timestamp="1607105479182" />
+    <state x="329" y="165" key="Vcs.Push.Dialog.v2/0.0.1472.864@0.0.1472.864" timestamp="1607969241768" />
+    <state x="518" y="145" key="git4idea.branch.GitSmartOperationDialog" timestamp="1607970521769">
+      <screen x="0" y="0" width="1472" height="864" />
+    </state>
+    <state x="518" y="145" key="git4idea.branch.GitSmartOperationDialog/0.0.1472.864@0.0.1472.864" timestamp="1607970521769" />
+  </component>
+</project>
