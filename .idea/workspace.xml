@@ -5,11 +5,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64606197-44aa-47dc-ac49-07784069f04d" name="Default Changelist" comment="homework #2_2">
-      <change afterPath="$PROJECT_DIR$/src/styles/postsComponentStyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    <list default="true" id="64606197-44aa-47dc-ac49-07784069f04d" name="Default Changelist" comment="homework #4">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +31,7 @@
   </component>
   <component name="JupyterTrust" id="c4a78970-c768-4745-8ecf-f2aa61e3d69b" />
   <component name="ProjectId" id="1lAQY8Qb8qX3QUelbuzrt4xC7cR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
